@@ -66,7 +66,7 @@ Configura: issue tracker (GitHub/Linear/local), labels de triage, carpeta de doc
 
 ---
 
-## Workflow completo (Anthony @cuevaio)
+## Workflow completo 
 
 ```
 1. /grill-with-docs     → resolver árbol de decisiones + CONTEXT.md
